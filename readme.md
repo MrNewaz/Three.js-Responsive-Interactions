@@ -1,4 +1,4 @@
-# Live Preview: [Live Preview](https://first-3d-newaz.netlify.app/).
+# [Live Preview](https://first-3d-newaz.netlify.app/).
 
 ## Setup
 
